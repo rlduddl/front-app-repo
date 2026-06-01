@@ -36,7 +36,7 @@ function App(props) {
             <CloudIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1, textAlign: 'center' }}>
-            EKS DEMO Blog v3
+            EKS DEMO Blog v10 commit plz
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
